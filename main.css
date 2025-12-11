@@ -44,3 +44,6 @@ p{
     margin-right: 13px;
     color: hsl(216, 15%, 48%);
 }
+.attribution {
+    font-size: 10px;
+}
