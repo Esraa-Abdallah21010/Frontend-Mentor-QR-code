@@ -17,8 +17,8 @@ body{
     height: 100vh;
 }
 .container{
-    width: 320px;
-    height:499px;
+    margin:0px;
+    width:288px;
     background: var(--white);
     padding:16px;
     text-align : center;
@@ -45,7 +45,7 @@ p{
     line-height: 140%;
     color: hsl(216, 15%, 48%);
     padding:0px 16px;
-    margin-bottom: 40px;
+    margin-bottom: 24px;
 }
 .attribution {
     font-size: 11px;
