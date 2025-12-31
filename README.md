@@ -20,7 +20,7 @@ The component is fully responsive and visually appealing for portfolio or real-w
 - HTML5  
 - CSS3  
 - Flexbox  
-- Responsive Design (Mobile / Tablet / Desktop)
+- Responsive Design (Mobile / Desktop)
 
 ---
 
